@@ -137,7 +137,7 @@ function swap_off {
 
 function install_matiec {
     echo "[MATIEC COMPILER]"
-    cd "$OPENPLC_DIR/utils/matiec_src"
+    cd "$OPENPLC_DIR/../matiec"
     autoreconf -i
     ./configure
     make

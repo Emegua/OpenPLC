@@ -22,3 +22,11 @@ webserver/scripts/ethercat
 
 # Runtime directories
 .venv
+utils/dnp3_src/*.ii
+utils/dnp3_src/*.s
+utils/libmodbus_src/src/.libs
+utils/libmodbus_src/src/.deps
+utils/libmodbus_src/tests
+utils/libmodbus_src/tests
+utils/libmodbus_src
+utils/dnp3_src
